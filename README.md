@@ -1,4 +1,4 @@
-# FCSC 2021 Échec OP
+# FCSC 2022 Échec OP
 
 
 Cette épreuve est découpée en quatre parties :

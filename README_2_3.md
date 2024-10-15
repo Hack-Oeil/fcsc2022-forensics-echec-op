@@ -1,4 +1,4 @@
-# FCSC 2021 Échec OP 2/3
+# FCSC 2022 Échec OP 2/3
 
 Retrouvez le mot de passe de l'utilisateur principal de ce serveur. La force ne résout pas tout… Le mot de passe correspond au flag, entouré de **FCSC{}** (exemple : **FCSC{password}**).
 
